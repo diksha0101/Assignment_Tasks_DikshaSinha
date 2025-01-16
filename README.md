@@ -4,25 +4,7 @@
 
 This README provides step-by-step instructions for setting up, installing, and running the Django project with a responsive webpage and chat application.
 
----
 
-## **Features**
-1. **Responsive Webpage**:
-   - Fixed navbar.
-   - Collapsible left menu.
-   - Main content area and right-side panel.
-   - Footer at the bottom.
-   - Shrinks content dynamically based on screen size.
-
-2. **Chat Application**:
-   - User registration and login.
-   - Collapsible left menu showing all registered users.
-   - Initiate chat with any user.
-   - Store user data and chat messages in the database.
-   - Retrieve and display old messages.
-   - Real-time chat using WebSocket.
-
----
 
 ## **Prerequisites**
 
